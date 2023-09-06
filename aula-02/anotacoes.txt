@@ -1,0 +1,17 @@
+npm init -y
+
+npm i express dotenv
+npm i -D nodemon //mas apenas para ambientes de desenvolvimento
+npm i -D typescript @types/node @types/express ts-node-dev
+npx tsc --init
+
+// Adicionar em package.json e adicionar em scripts
+"dev": "npx nodemon --exec ts-node-dev src/server.ts"
+
+//Criar a pasta src e o arquivo dentro dela
+
+//Para executar
+npm run dev
+
+npm i - instalar todo o node_modules de novo
+SQLite Viewer - extensão para ver o banco
