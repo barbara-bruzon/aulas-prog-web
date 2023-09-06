@@ -2,7 +2,7 @@
 Repositório criado para guardar os códigos desenvolvidos durante as aulas de Programação WEB durante o 4º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Indaiatuba
 
 ## Aula 02 - Introdução a Express, Node e Typescript (01.09.2023)
-Código contruído conforme o passo-a-passo disponibilizado pelo professor em seu [Repositório](https://github.com/felipez3r0/workshop-node-ts-intro).
+Código contruído conforme o passo-a-passo disponibilizado pelo professor em seu [repositório](https://github.com/felipez3r0/workshop-node-ts-intro).
 
 Algumas anotações  dos comandos em terminal para iniciar o ambiente:
 ```
@@ -19,4 +19,4 @@ npm run dev
 - O comando ```npm i``` instala todos os arquivos que constituem a pasta ```node_modules```.
 
 ### Atividade da aula
-Terminar o passo-a-passo iniciado em sala de aula. O repositório com a atividade finalizada pode ser encontrado [aqui](https://github.com/barbara-bruzon/Intro-ExpressNode) :D
+Terminar o passo-a-passo iniciado em sala de aula. O repositório com a atividade finalizada pode ser encontrado [aqui](https://github.com/barbara-bruzon/introducao-express-node) :D
