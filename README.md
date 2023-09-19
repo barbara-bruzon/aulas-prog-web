@@ -19,4 +19,15 @@ npm run dev
 - O comando ```npm i``` instala todos os arquivos que constituem a pasta ```node_modules```.
 
 ### Atividade da aula
-Terminar o passo-a-passo iniciado em sala de aula. O repositório com a atividade finalizada pode ser encontrado [aqui](https://github.com/barbara-bruzon/introducao-express-node) :D
+Terminar o passo-a-passo iniciado em sala de aula.
+> O repositório com a atividade 02 finalizada pode ser encontrado [aqui](https://github.com/barbara-bruzon/introducao-express-node)
+
+
+## Aula 03 - Introdução a React (15.09.2023)
+Introdução ao React, que permite a criação de componentes reutilizáveis, juntamente com o JSX - extensão de sintaxe que permite usar o javascript e HTML num único arquivo.
+Foi desenvolvido um site bem simples, contendo apenas uma texbox e um botão não funcional, para entender o funcionamento da lógica e boas práticas do React.
+
+### Atividade da aula
+- Criar um componente para inserir Input customizado com a cor do texto vermelha, que vai receber um valor inicial, tipo e um placeholder.
+- Montar um formulário no App.tsx com nome, e-mail, telefone e um botão não funcional de enviar.
+> O repositório com a atividade 03 finalizada pode ser encontrado [aqui](https://github.com/barbara-bruzon/intro-react)
