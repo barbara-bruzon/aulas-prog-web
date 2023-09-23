@@ -31,3 +31,14 @@ Foi desenvolvido um site bem simples, contendo apenas uma texbox e um botão nã
 - Criar um componente para inserir Input customizado com a cor do texto vermelha, que vai receber um valor inicial, tipo e um placeholder.
 - Montar um formulário no App.tsx com nome, e-mail, telefone e um botão não funcional de enviar.
 > O repositório com a atividade 03 finalizada pode ser encontrado [aqui](https://github.com/barbara-bruzon/intro-react)
+
+
+## Aula 03 - Introdução a React 2 (22.09.2023)
+Incluimos o React Router no projeto. Pode ser importado usando ```npm i react-router-dom``` e ajuda a construir um site com diversas páginas, pois "contrói" a URL.
+
+### Atividade da aula
+Criar as seguintes páginas para o projeto:
+- Inicial com uma breve apresentação do nosso projeto
+- Contato com o formulário que foi criado na última aula
+- "Sobre" comentando sobre quem desenvolveu o projeto
+- Um que liste uma série de tarefas sobre o projeto
