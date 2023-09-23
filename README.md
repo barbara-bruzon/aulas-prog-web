@@ -34,7 +34,7 @@ Foi desenvolvido um site bem simples, contendo apenas uma texbox e um botão nã
 
 
 ## Aula 04 - Introdução a React 2 (22.09.2023)
-Incluimos o React Router no projeto. Pode ser importado usando ```npm i react-router-dom``` e ajuda a construir um site com diversas páginas, pois "contrói" a URL.
+Incluimos o React Router no projeto. Pode ser importado usando ```npm i react-router-dom``` e ajuda a construir um site com diversas páginas, pois "constrói" as URLs e links de direcionamento para elas.
 
 ### Atividade da aula
 Criar as seguintes páginas para o projeto:
