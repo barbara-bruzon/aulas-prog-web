@@ -33,7 +33,7 @@ Foi desenvolvido um site bem simples, contendo apenas uma texbox e um botão nã
 > O repositório com a atividade 03 finalizada pode ser encontrado [aqui](https://github.com/barbara-bruzon/intro-react)
 
 
-## Aula 03 - Introdução a React 2 (22.09.2023)
+## Aula 04 - Introdução a React 2 (22.09.2023)
 Incluimos o React Router no projeto. Pode ser importado usando ```npm i react-router-dom``` e ajuda a construir um site com diversas páginas, pois "contrói" a URL.
 
 ### Atividade da aula
