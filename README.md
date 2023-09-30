@@ -34,7 +34,7 @@ Foi desenvolvido um site bem simples, contendo apenas uma texbox e um botão nã
 
 
 ## Aula 04 - Introdução a React 2 (22.09.2023)
-Incluimos o React Router no projeto. Pode ser importado usando ```npm i react-router-dom``` e ajuda a construir um site com diversas páginas, pois "constrói" as URLs e links de direcionamento para elas.
+Incluimos o React Router no projeto. Pode ser importado usando ```npm i react-router-dom``` e ajuda a construir um site com diversas páginas, pois "constrói" as URLs e links de direcionamento para elas. Também aplicamos o conceito de "componentização", montando os componentes das páginas e importando quando necessário.
 
 ### Atividade da aula
 Criar as seguintes páginas para o projeto:
@@ -42,3 +42,14 @@ Criar as seguintes páginas para o projeto:
 - Contato com o formulário que foi criado na última aula
 - "Sobre" comentando sobre quem desenvolveu o projeto
 - Um que liste uma série de tarefas sobre o projeto
+
+## Aula 05 - Chakra (29.09.2023)
+Nessa aula, começamos a utilizar o [Chakra](https://chakra-ui.com/) para montar o site. É possível importar templates completos e acrescentá-los ao trabalho. Ou seja, facilita bastante da hora de criar as aplicações, principalmente para quem tem difilculdade com o assunto (no caso, eu tenho bastante dificuldade com o design).
+
+### Sugestões
+- Ícones para utilizar nas aplicações por meio do [react-icons](https://react-icons.github.io/react-icons): para utilizar no código basta importar com ```npm i react-icons```
+- Muitos templates com o [chakra](https://chakra-templates.dev/)
+- Extensão [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow): destaca as indentações com cores, tornando mais fácil se encontrar no código
+
+### Atividade da aula
+
