@@ -42,6 +42,7 @@ Criar as seguintes páginas para o projeto:
 - Contato com o formulário que foi criado na última aula
 - "Sobre" comentando sobre quem desenvolveu o projeto
 - Um que liste uma série de tarefas sobre o projeto
+> O repositório com a atividade 03 finalizada pode ser encontrado [aqui](https://github.com/barbara-bruzon/paginas-react)
 
 ## Aula 05 - Chakra (29.09.2023)
 Nessa aula, começamos a utilizar o [Chakra](https://chakra-ui.com/) para montar o site. É possível importar templates completos e acrescentá-los ao trabalho. Ou seja, facilita bastante da hora de criar as aplicações, principalmente para quem tem difilculdade com o assunto (no caso, eu tenho bastante dificuldade com o design).
@@ -52,4 +53,5 @@ Nessa aula, começamos a utilizar o [Chakra](https://chakra-ui.com/) para montar
 - Extensão [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow): destaca as indentações com cores, tornando mais fácil se encontrar no código
 
 ### Atividade da aula
-
+Ajustar a página de tarefas para torná-la similar ao modelo fornecido pelo professor.
+> O repositório com a atividade 03 finalizada pode ser encontrado [aqui](https://github.com/barbara-bruzon/react-n-chakra)
