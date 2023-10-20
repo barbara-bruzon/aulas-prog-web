@@ -55,3 +55,7 @@ Nessa aula, começamos a utilizar o [Chakra](https://chakra-ui.com/) para montar
 ### Atividade da aula
 Ajustar a página de tarefas para torná-la similar ao modelo fornecido pelo professor.
 > O repositório com a atividade 05 finalizada pode ser encontrado [aqui](https://github.com/barbara-bruzon/react-n-chakra)
+
+## Aula 06 - Hooks (06.10.2023)
+
+## Aula 07 - Chakra (20.10.2023)
