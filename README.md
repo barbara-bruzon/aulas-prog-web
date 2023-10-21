@@ -58,4 +58,4 @@ Ajustar a página de tarefas para torná-la similar ao modelo fornecido pelo pro
 
 ## Aula 06 - Hooks (06.10.2023)
 
-## Aula 07 - Chakra (20.10.2023)
+## Aula 07 - Back-end (20.10.2023)
