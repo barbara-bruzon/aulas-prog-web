@@ -1,0 +1,21 @@
+.botaoFatec {
+    border: 5px solid rgb(114, 176, 143);
+    text-align: center;
+    width: 410px;
+    height: 60px;
+    background-color: rgb(165, 241, 200);
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.submit {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    padding: 8px;
+}
+
+.botaoFatec:active{
+    background-color: rgb(125, 158, 140);
+}

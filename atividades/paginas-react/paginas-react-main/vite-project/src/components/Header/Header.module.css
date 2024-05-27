@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(125, 158, 140);
+    border: 2px solid #000;
+    padding: 20px;
+    margin: 0;
+    max-height: 2px;
+}
+
+.header a {
+    text-decoration: none;
+    margin: 0 15px;
+    color: #000000;
+    font-size: 20px;
+}
+
+.header p:hover {
+    font-weight: bold;
+}
